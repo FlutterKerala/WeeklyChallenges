@@ -16,5 +16,10 @@
   * Teams are required to submit the app code along with release apk in github/gitlab.
   * Competition ends on 9th May 2020 12:00 AM,so teams are requested to submit before it.
   * If team has multiple members then we will be checking commits to see the contributions.
-  
+
+### Submission steps
+  1. Fork this repository
+  2. Edit Submissions.md, add your details. (Sample entry is mentioned, follow the same format)
+  3. Make a pull request
+
 ### Happy Coding!
