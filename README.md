@@ -22,4 +22,18 @@
   2. Edit Submissions.md, add your details. (Sample entry is mentioned, follow the same format)
   3. Make a pull request
 
-### Happy Coding!
+### Leaderboard
+
+  ___________
+< Leaderboard >
+---------------------
+| Team Name | Points |
+---------------------
+| Team Name Goes Here | Points here |
+---------------
+         \   ^__^ 
+          \  (oo)\_______
+             (__)\       )\/\
+                 ||----w |
+                 ||     ||
+   
