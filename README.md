@@ -24,12 +24,9 @@
 
 ### Leaderboard
 
-
-
 | Team Name | Points |
 |------------|---------|
 | Team Name Goes Here | Points here |
----------------
          \   ^__^ 
           \  (oo)\_______
              (__)\       )\/\
