@@ -24,11 +24,10 @@
 
 ### Leaderboard
 
-  ___________
-< Leaderboard >
----------------------
+
+
 | Team Name | Points |
----------------------
+|------------|---------|
 | Team Name Goes Here | Points here |
 ---------------
          \   ^__^ 
