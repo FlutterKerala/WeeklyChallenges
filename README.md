@@ -19,7 +19,7 @@
 
 ### Submission steps
   1. Fork this repository
-  2. Edit [Submissions.md](https://github.com/FlutterKerala/WeeklyChallenges/edit/master/Submissions.md), add your details.
+  2. Edit [Submissions.md](https://github.com/FlutterKerala/WeeklyChallenges/edit/master/Submissions.md)
   Add your entry at the bottom as: `[<team id>](<repo link>)` without the angular brackets.
   
   3. Make a pull request
