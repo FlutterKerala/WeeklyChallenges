@@ -19,7 +19,7 @@
 
 ### Submission steps
   1. Fork this repository
-  2. Edit Submissions.md, add your details. (Sample entry is mentioned, follow the same format)
+  2. Edit [Submissions.md](./submissions.md), add your details. (Sample entry is mentioned, follow the same format)
   3. Make a pull request
 
 ### Leaderboard
