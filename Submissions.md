@@ -2,7 +2,7 @@
 
 ## Sample submission (Follow this exact format)
 
-    [Team ID](Your project github url)
+    [23](https://github.com/adheela/todo_app)
 
 Make sure you mention the brackets [], (). It'll be helpful for formatting and for us to navigate to your repo easily.
 
