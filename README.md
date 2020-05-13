@@ -28,7 +28,13 @@
 
 | Team Name | Points |
 |------------|---------|
-| Team Name Goes Here | Points here |
+| Shashank S J | 10 |
+| Sneha Metlon | 5 |
+| Dheeraj | 3 |
+| Arshu P T | 1 |
+| Alkka | 1 |
+| Ajmal Noushad | 1 |
+| Adheela | 1 |
          \   ^__^ 
           \  (oo)\_______
              (__)\       )\/\
