@@ -25,3 +25,5 @@ Append your submission details below 👇. Please do not edit or change the cont
 [19](https://github.com/adheela/examen_app)
 
 [5](https://github.com/hashiqvh/quiz.git)
+
+[7](https://github.com/sneha-meto/Quizy-Flutter)
