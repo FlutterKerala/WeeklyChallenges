@@ -19,4 +19,15 @@ Append your submission details below 👇. Please do not edit or change the cont
 [8](https://github.com/ajmaln/flutter-quiz)
 
 [11](https://github.com/Syamgith/Quizzy)
+
+[6](https://github.com/itexpert2572000/Quiz_App)
+
+[19](https://github.com/adheela/examen_app)
+
+[5](https://github.com/hashiqvh/quiz.git)
+
+[22](https://github.com/arshupt/Quiz-App)
+
+[7](https://github.com/sneha-meto/Quizy-Flutter)
+
 [4](https://github.com/AbhijithKonnayil/quizapp)
