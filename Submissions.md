@@ -20,6 +20,10 @@ Append your submission details below 👇. Please do not edit or change the cont
 
 [11](https://github.com/Syamgith/Quizzy)
 
+[27](https://github.com/dheerajtp/ToDoList)
+
+[12](https://github.com/dheerajtp/Quiz-Application)
+
 [6](https://github.com/itexpert2572000/Quiz_App)
 
 [19](https://github.com/adheela/examen_app)
