@@ -32,4 +32,4 @@ You will have to make use of this API to be served as an endpoint from where you
   3. Make a pull request
    
 ### Previous challenges
-#### [Week 1: Todo](./week1.md)
+#### [Week 1: Todo (4 - 9 May 2020)](./week1.md)
