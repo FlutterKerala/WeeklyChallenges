@@ -37,3 +37,4 @@ Append your submission details below 👇. Please do not edit or change the cont
 [4](https://github.com/AbhijithKonnayil/quizapp)
 
 [21](https://github.com/matrixhead/flutterKquizapp)
+[18](https://github.com/santhoshjanan/WeeklyChallenges)
