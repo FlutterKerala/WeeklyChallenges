@@ -8,6 +8,24 @@ TODO app ✅
 
 #### Submissions
 
+##### Shashank SJ
+[20](https://github.com/shashank-sj/ToDo)
+
+##### Ajmal
+[22](https://github.com/ajmaln/todo)
+
+##### Arshupt
+[38](https://github.com/arshupt/Flutter_Todo)
+
+##### Dheeraj
+[27](https://github.com/dheerajtp/ToDoList)
+
+##### Adheela
+[23](https://github.com/adheela/todo_app)
+
+##### Sneha
+[34](https://github.com/sneha-meto/Listio-2)
+
 #### Winners
 
 #### Resources to Learn
