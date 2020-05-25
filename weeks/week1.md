@@ -2,13 +2,15 @@
 
 TODO app ✅
 
+![Week 1 Winner](./week1ig.png)
+
 #### 4 - 9 May 2020
 
 ## TODO List
 
 #### Submissions
 
-##### Shashank SJ
+##### 🥇 Shashank SJ
 [20](https://github.com/shashank-sj/ToDo)
 
 ##### Ajmal
@@ -17,13 +19,13 @@ TODO app ✅
 ##### Arshupt
 [38](https://github.com/arshupt/Flutter_Todo)
 
-##### Dheeraj
+##### 🥉 Dheeraj
 [27](https://github.com/dheerajtp/ToDoList)
 
 ##### Adheela
 [23](https://github.com/adheela/todo_app)
 
-##### Sneha
+##### 🥈 Sneha
 [34](https://github.com/sneha-meto/Listio-2)
 
 #### Winners
