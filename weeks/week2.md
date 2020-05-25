@@ -1,7 +1,7 @@
 # Week 2
 
 ## Quiz app ✅
-![Week 2 Winners][./week2ig.png]
+![Week 2 Winners](./week2ig.png)
 
 #### 16 - 20 May 2020
 
