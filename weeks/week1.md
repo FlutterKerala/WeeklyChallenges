@@ -8,7 +8,7 @@
 
 ## Submissions
 
-#### 🥇 Shashank SJ
+### 🥇 Shashank SJ
 [20](https://github.com/shashank-sj/ToDo)
 
 ### Ajmal
@@ -17,7 +17,7 @@
 ### Arshupt
 [38](https://github.com/arshupt/Flutter_Todo)
 
-#### 🥉 Dheeraj
+### 🥉 Dheeraj
 [27](https://github.com/dheerajtp/ToDoList)
 
 ### Adheela
