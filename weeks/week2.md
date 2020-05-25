@@ -1,32 +1,32 @@
 # Week 2
 
-Quiz app ✅
+## Quiz app ✅
 
-#### 16 - 20 May 2020
+### 16 - 20 May 2020
 
 ## Quiz app
 
-#### Submissions
+### Submissions
 
-##### Mayur Poptani (Winner)
+#### Mayur Poptani (Winner)
 [17](https://github.com/MayurPoptani/quizzy_app.git)
 
 #### Abhijith Konnayil (Runner up)
 [4](https://github.com/AbhijithKonnayil/quizapp)
 
-##### Ajmal (Second runner up)
+#### Ajmal (Second runner up)
 [8](https://github.com/ajmaln/flutter-quiz)
 
-##### Syamgith
+#### Syamgith
 [11](https://github.com/Syamgith/Quizzy)
 
-##### Dheeraj
+#### Dheeraj
 [12](https://github.com/dheerajtp/Quiz-Application)
 
-#### Akhil T J
+### Akhil T J
 [6](https://github.com/itexpert2572000/Quiz_App)
 
-##### Adheela
+#### Adheela
 [19](https://github.com/adheela/examen_app)
 
 #### Hashiq V H
@@ -35,7 +35,7 @@ Quiz app ✅
 #### Mohammed Arshu PT
 [22](https://github.com/arshupt/Quiz-App)
 
-##### Sneha
+#### Sneha
 [7](https://github.com/sneha-meto/Quizy-Flutter)
 
 #### Sreehari Prasad
