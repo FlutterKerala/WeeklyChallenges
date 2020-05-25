@@ -4,8 +4,6 @@
 
 ### 16 - 20 May 2020
 
-## Quiz app
-
 ### Submissions
 
 #### Mayur Poptani (Winner)
