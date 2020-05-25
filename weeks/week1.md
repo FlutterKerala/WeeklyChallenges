@@ -1,36 +1,32 @@
 # Week 1
 
-TODO app ✅
+## Todo app ✅
 
 ![Week 1 Winner](./week1ig.png)
 
 #### 4 - 9 May 2020
 
-## TODO List
+## Submissions
 
-#### Submissions
-
-##### 🥇 Shashank SJ
+#### 🥇 Shashank SJ
 [20](https://github.com/shashank-sj/ToDo)
 
-##### Ajmal
+### Ajmal
 [22](https://github.com/ajmaln/todo)
 
-##### Arshupt
+### Arshupt
 [38](https://github.com/arshupt/Flutter_Todo)
 
-##### 🥉 Dheeraj
+#### 🥉 Dheeraj
 [27](https://github.com/dheerajtp/ToDoList)
 
-##### Adheela
+### Adheela
 [23](https://github.com/adheela/todo_app)
 
-##### 🥈 Sneha
+### 🥈 Sneha
 [34](https://github.com/sneha-meto/Listio-2)
 
-#### Winners
-
-#### Resources to Learn
+## Resources to Learn
  * [Making a Todo App with Flutter](https://medium.com/the-web-tub/making-a-todo-app-with-flutter-5c63dab88190)
  * [Todo List Flutter Tutorial](https://github.com/dwyl/flutter-todo-list-tutorial)
  * [To-do List in Flutter with SQLite as local database](https://medium.com/@abeythilakeudara3/to-do-list-in-flutter-with-sqlite-as-local-database-8b26ba2b060e)
