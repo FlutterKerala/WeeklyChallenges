@@ -7,13 +7,13 @@
 
 ## Submissions
 
-### 🥇 Mayur Poptani (Winner)
+### 🥇 Mayur Poptani (Winner) (@MikeMayur)
 [17](https://github.com/MayurPoptani/quizzy_app.git)
 
-### 🥈 Abhijith Konnayil (Runner up)
+### 🥈 Abhijith Konnayil (Runner up) (@abhijithkonnayil)
 [4](https://github.com/AbhijithKonnayil/quizapp)
 
-### 🥉 Ajmal (Second runner up)
+### 🥉 Ajmal (Second runner up) (@ajmal_n)
 [8](https://github.com/ajmaln/flutter-quiz)
 
 ### Syamgith
